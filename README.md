@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 - :telescope: Beginner Swift developer
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 ---
 
