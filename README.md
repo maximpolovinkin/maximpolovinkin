@@ -24,7 +24,7 @@
 ### :man_technologist: About Me :
 - :telescope: Beginner Swift developer
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :zap: My LeetCode account https://leetcode.com/maximpolovinkin/
+- :zap: My LeetCode account https://leetcode.com/maximpolovinkin
 - :zap: CodeWars account https://www.codewars.com/users/maximpolovinkin
 
 ---
