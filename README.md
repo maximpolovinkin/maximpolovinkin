@@ -22,11 +22,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: Beginner Swift developer
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :zap: My LeetCode account https://leetcode.com/maximpolovinkin
-- :zap: CodeWars account https://www.codewars.com/users/maximpolovinkin
-
+- :telescope: Juniot Swift developer at <img src="https://github.com/maximpolovinkin/maximpolovinkin/assets/79770914/9f6ecea1-bfad-446d-9a61-a32811877d31" width="30" height="30"/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
